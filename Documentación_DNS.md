@@ -49,13 +49,13 @@ sudo apt install bind9 bind9utils
 - Instalar bind9
 
 ![Instalar bind9](./img/Imagen_06.PNG)
-![Bind9 instalado](./img/Imagen_07.PNG)
+![Bind9 instalado](./img/Imagen_07.png)
 
 
 - Ver archivo /etc/passwd
 
 ![Ver archivo /etc/paswd](./img/Imagen_08.PNG)
-![Ver usuario bind creado](./img/Imagen_09.png)
+![Ver usuario bind creado](./img/Imagen_09.PNG)
 
 3. Comprobar estado del servicio **bind**:
 ~~~
